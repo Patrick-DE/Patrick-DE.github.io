@@ -2,3 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+img.resize {
+    width: auto; /* you can use % */
+    height: 100px;
+}
