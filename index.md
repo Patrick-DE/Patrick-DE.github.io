@@ -41,7 +41,7 @@ Zu den allgemeinen Grundlagen wie Programmierung, Software-Engineering, allgemei
 # As seen in the news
 [![Mannheimer Morgen](https://dr-strauss.net/wp-content/uploads/2018/09/Mannheimer-Morgen-750x500.jpg){: .center-image .resize}](https://www.morgenweb.de/mannheimer-morgen_artikel,-hochschule-studiengang-fuer-mehr-sicherheit-im-netz-_arid,1350719.html)
 
-[![iwd](https://pbs.twimg.com/profile_images/727819471079907329/5JReCIdu_400x400.jpg){: .center-image .resize}](https://idw-online.de/images/idw_logo_blau.png)
+[![iwd](https://pbs.twimg.com/profile_images/727819471079907329/5JReCIdu_400x400.jpg){: .center-image .resize}](https://idw-online.de/de/news692079)
 
 [![RNZ](https://static.city-map.de/infoPageContent/9259_0_16180015801.jpg){: .center-image .resize}](https://www.rnz.de/nachrichten/mannheim_artikel,-hochschule-mannheim-neuer-bachelor-soll-digitale-experten-ausbilden-_arid,352799.html)
 
