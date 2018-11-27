@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: Newborn CTF
+description: An easy CTF for newcomers and newborn hackers.
+show_downloads: false
+google_analytics: UA-129895394-1
