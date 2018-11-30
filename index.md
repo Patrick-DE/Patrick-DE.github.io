@@ -6,7 +6,7 @@ layout: default
 Welcome to the official page of the new CTF in cooperation with the KIS (Competence Center Information Security) of Hochschule Mannheim.
 The CTF will be Jepardy-style 
 
-|           | Onside           |  Online         |
+|           | Onsite           |  Online         |
 |:----------|:-----------------|:----------------|
 | Start     | 11.01.2019 TBD | 11.01.2019 TBD|
 | End       | 11.01.2019 TBD | 13.01.2019 TBD|
