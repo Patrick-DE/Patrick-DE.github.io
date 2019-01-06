@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
+# Registration
+The registration is open!
+Follow the link to get to the [CTF-Page](https://newborn-ctf.secdud.es/).
 
 # Competition Information
 Welcome to the official page of the new CTF in cooperation with the KIS (Competence Center Information Security) of Hochschule Mannheim.
-The CTF will be Jepardy-style 
+The CTF will be Jepardy-style. 
 
 |           | Onsite           |  Online         |
 |:----------|:-----------------|:----------------|
-| Start     | 11.01.2019 TBD | 11.01.2019 TBD|
-| End       | 11.01.2019 TBD | 13.01.2019 TBD|
+| Start     | 2019-01-11 16:00 / 15:00 UTC | 2019-01-11 16:00 / 15:00 UTC|
+| End       | 2019-01-11 19:30 / 17:30 UTC | 2019-01-13 23:00 / 22:00 UTC|
 
 
 # Challenge Categories
